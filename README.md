@@ -1,180 +1,244 @@
+<!-- ===================== HEADER ===================== -->  <div align="center">  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha Data Analyst portfolio banner"/>  <br/>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Dashboards+and+Business+Insights" alt="Animated introduction"/>  <br/>  <a href="https://github.com/As-01-Asma">  
+<img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub portfolio"/>  
+</a>  
+<a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">  
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+</a>  
+<a href="mailto:asmathshaik012@gmail.com">  
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
+</a>  <br/><br/>
 
-<!-- HEADER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha - Data Analyst"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Dashboards+and+Business+Insights" alt="Portfolio introduction"/>
-</p>
-<p align="center">
-<a href="https://github.com/As-01-Asma">GitHub</a> |
-<a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">LinkedIn</a> |
-<a href="mailto:asmathshaik012@gmail.com">Email</a>
-</p>
-<p align="center">📍 Hyderabad, Telangana, India</p>
+📍 Hyderabad, Telangana, India
+
+</div>  
+---
+
+👩🏻‍💻 About Me
+
+Hi, I'm Shaik Asmatha, a Data Science graduate interested in turning raw data into meaningful insights and business solutions.
+
+I use data analysis, SQL queries, Python, Excel, and Power BI to explore datasets, understand customer behavior, identify patterns, and communicate findings through dashboards and reports.
+
+🎓 B.Tech in Data Science — HITAM
+
+📊 Focus areas: Data Analytics, Business Intelligence and Reporting
+
+🧠 Interested in customer analytics, marketing performance and data-driven decisions
+
+🎯 Looking for entry-level Data Analyst opportunities
+
+
 
 ---
 
-## 👩‍💻 About Me
+🛠️ My Technical Toolkit
 
-Hi, I'm **Shaik Asmatha**, a Data Science graduate interested in turning raw data into meaningful insights and business solutions.
+<div align="center">  Data Analytics & Visualization
 
-I use SQL, Python, Excel, and Power BI to explore datasets, understand customer behavior, identify patterns, and communicate findings through dashboards and reports.
+<!-- Platform and development tool logos -->  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,python,jupyter,googlecolab,vscode,pycharm,powerpoint&theme=dark" alt="MySQL, PostgreSQL, SQL Server, Python, Jupyter Notebook, Google Colab, VS Code, PyCharm and PowerPoint"/>  <br/><br/>
 
-- 🎓 B.Tech in Data Science — HITAM
-- 📊 Focus areas: Data Analytics, Business Intelligence and Reporting
-- 🔎 Interested in customer analytics, marketing performance and data-driven decisions
-- 💼 Looking for entry-level Data Analyst opportunities
+<!-- Main technical skills: Excel, SQL, Power BI, Python (Pandas) -->  <a href="https://www.microsoft.com/microsoft-365/excel">  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>  
+</a>  
+<a href="https://www.mysql.com/">  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>  
+</a>  
+<a href="https://powerbi.microsoft.com/">  
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>  
+</a>  
+<a href="https://www.python.org/">  
+<img src="https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Pandas)"/>  
+</a>  </div>  Excel: XLOOKUP, Pivot Tables, Power Query, data cleaning, formulas and reporting
 
----
+SQL: Joins, CTEs, subqueries, aggregations, window functions and data analysis
 
-## 🛠️ Technical Toolkit
+Power BI: Interactive dashboards, DAX, data modeling and reporting
 
-### Data Analytics & Visualization
+Python: Pandas, data analysis, data cleaning and data handling
 
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Pandas"/>
-</p>
+Tools: MySQL, PostgreSQL, SQL Server, Jupyter Notebook, Google Colab, VS Code and PyCharm
 
-- **Excel:** XLOOKUP, Pivot Tables, Power Query, data cleaning, formulas and reporting
-- **SQL:** Joins, CTEs, subqueries, aggregations, window functions and data analysis
-- **Power BI:** Interactive dashboards, DAX, data modeling and reporting
-- **Python:** Pandas, data analysis, data cleaning and data handling
+Presentation: Microsoft PowerPoint
 
-### Platforms & Tools
-
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,jupyter,googlecolab,vscode,pycharm,powerpoint&theme=dark" alt="MySQL, PostgreSQL, SQL Server, Jupyter Notebook, Google Colab, VS Code, PyCharm and PowerPoint"/>
-</p>
-
-- **Databases:** MySQL, PostgreSQL and SQL Server
-- **Development tools:** Jupyter Notebook, Google Colab, VS Code and PyCharm
-- **Presentation:** Microsoft PowerPoint
 
 ---
 
-## 📊 Project 01 — Marketing Performance Analytics
+🚀 Featured Projects
 
-**Python Analysis · SQL Querying · Power BI Dashboards**
+<div align="center">  📈 Project 01 — Marketing Performance Analytics
 
-Analyzed marketing performance, customer engagement, conversion behavior, and customer reviews to identify opportunities for improving campaign outcomes.
+<img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>  
+<img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>  
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>  </div>  Analyzed marketing performance, customer engagement, conversion behavior, and customer reviews to identify opportunities for improving campaign outcomes.
 
-| Key Metric | Result |
-|---|---|
-| Conversion Rate | 5.0% → 10.2% |
-| Conversion Improvement | 104% increase |
-| Pre-purchase Drop-offs | 182 |
+<table>  
+<tr>  
+<td width="50%" align="center">  5.0% → 10.2%
 
-### What I worked on
+Conversion Rate
 
-- Examined marketing and conversion performance.
-- Investigated pre-purchase drop-offs.
-- Analyzed social media engagement and customer reviews.
-- Created four dashboard areas: Marketing Overview, Conversion Details, Social Media Details, and Customer Review Details.
-- Identified findings to support data-driven marketing decisions.
+104% increase
 
-[View Marketing Analytics Project](https://github.com/As-01-Asma/Marketing_Analytics)
+</td>  
+<td width="50%" align="center">  182
 
+Pre-purchase Drop-offs
+
+Customer journey analysis
+
+</td>  
+</tr>  
+</table>  What I worked on
+
+Examined marketing and conversion performance.
+
+Investigated pre-purchase drop-offs.
+
+Analyzed social media engagement and customer reviews.
+
+Created four dashboard areas: Marketing Overview, Conversion Details, Social Media Details, and Customer Review Details.
+
+Identified findings to support data-driven marketing decisions.
+
+
+<div align="center">  <a href="https://github.com/As-01-Asma/Marketing_Analytics">  
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Marketing Analytics repository"/>  
+</a>  </div>  
 ---
 
-## 🛍️ Project 02 — Customer Shopping Behavior Analysis
+<div align="center">  🛍️ Project 02 — Customer Shopping Behavior Analysis
 
-**Python Analysis · SQL Data Analysis · Power BI Visualization**
+<img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>  
+<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>  
+<img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>  </div>  Explored customer shopping records to understand purchasing patterns, spending behavior, customer ratings, and subscription preferences.
 
-Explored customer shopping records to understand purchasing patterns, spending behavior, customer ratings, and subscription preferences.
+<table>  
+<tr>  
+<td width="50%" align="center">  3.9K
 
-| Key Metric | Result |
-|---|---|
-| Customer Records | 3.9K |
-| Average Order Value | $59.76 |
-| Average Rating | 3.75 / 5 |
-| Non-subscriber Base | 73% |
+Customer Records
 
-### What I worked on
+Shopping behavior analysis
 
-- Cleaned and analyzed customer shopping data.
-- Explored purchase categories, customer segments, and shipping preferences.
-- Investigated ratings and subscription behavior.
-- Developed recommendations for customer retention, loyalty, and targeted marketing.
+</td>  
+<td width="50%" align="center">  $59.76
 
-[View Customer Shopping Behavior Project](https://github.com/As-01-Asma/customer_behavior_analysis)
+Average Order Value
 
+Customer spending metric
+
+</td>  
+</tr>  
+<tr>  
+<td width="50%" align="center">  3.75 / 5
+
+Average Rating
+
+Customer feedback
+
+</td>  
+<td width="50%" align="center">  73%
+
+Non-subscriber Base
+
+Subscription insights
+
+</td>  
+</tr>  
+</table>  What I worked on
+
+Cleaned and analyzed customer shopping data.
+
+Explored purchase categories, customer segments, and shipping preferences.
+
+Investigated ratings and subscription behavior.
+
+Developed recommendations for customer retention, loyalty, and targeted marketing.
+
+
+<div align="center">  <a href="https://github.com/As-01-Asma/customer_behavior_analysis">  
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Customer Shopping Behavior repository"/>  
+</a>  </div>  
 ---
 
-## 🔄 Data Analysis Process
+🔄 My Data Analysis Process
 
-1. **Understand the problem** — Define the business question.
-2. **Clean and prepare data** — Handle missing values and inconsistencies.
-3. **Analyze with SQL & Python** — Explore patterns and trends.
-4. **Visualize with Power BI** — Build dashboards and track KPIs.
-5. **Communicate business insights** — Present findings to support decisions.
+<div align="center">  <img src="https://img.shields.io/badge/01-UNDERSTAND%20THE%20PROBLEM-172554?style=for-the-badge" alt="Understand the problem"/>  <br/>⬇️<br/>
 
+<img src="https://img.shields.io/badge/02-CLEAN%20AND%20PREPARE%20DATA-164E63?style=for-the-badge" alt="Clean and prepare data"/>  <br/>⬇️<br/>
+
+<img src="https://img.shields.io/badge/03-ANALYZE%20WITH%20SQL%20%26%20PYTHON-166534?style=for-the-badge" alt="Analyze with SQL and Python"/>  <br/>⬇️<br/>
+
+<img src="https://img.shields.io/badge/04-VISUALIZE%20WITH%20POWER%20BI-854D0E?style=for-the-badge" alt="Visualize with Power BI"/>  <br/>⬇️<br/>
+
+<img src="https://img.shields.io/badge/05-COMMUNICATE%20BUSINESS%20INSIGHTS-5B21B6?style=for-the-badge" alt="Communicate business insights"/>  </div>  
 ---
 
-## 📜 Certificates & Learning
+🏅 Certificates & Learning
 
-- [Deloitte Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_gz3JaAohkLsPMWFZZ_1770700002978_completion_certificate.pdf)
-- [Tata Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_gz3JaAohkLsPMWFZZ_1771212862051_completion_certificate.pdf)
-- [Microsoft Power BI Certificate](https://drive.google.com/file/d/1qiMzC44XjlzEV6l1Ub7OsqsHP2SGR_mw/view?usp=drivesdk)
-- [Additional Certificate](https://drive.google.com/file/d/19RLdeuqhAMpm2jIA0uB2m76-udQfqjJ8/view?usp=drivesdk)
+<div align="center">  <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_gz3JaAohkLsPMWFZZ_1770700002978_completion_certificate.pdf">  
+<img src="https://img.shields.io/badge/DELOITTE-View%20Certificate-86BC25?style=for-the-badge" alt="Deloitte certificate"/>  
+</a>  <br/><br/>
 
+<a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_gz3JaAohkLsPMWFZZ_1771212862051_completion_certificate.pdf">  
+<img src="https://img.shields.io/badge/TATA-View%20Certificate-005A9C?style=for-the-badge" alt="Tata certificate"/>  
+</a>  <br/><br/>
+
+<a href="https://drive.google.com/file/d/1qiMzC44XjlzEV6l1Ub7OsqsHP2SGR_mw/view?usp=drivesdk">  
+<img src="https://img.shields.io/badge/MICROSOFT-POWER%20BI%20CERTIFICATE-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" alt="Microsoft Power BI certificate"/>  
+</a>  <br/><br/>
+
+<a href="https://drive.google.com/file/d/19RLdeuqhAMpm2jIA0uB2m76-udQfqjJ8/view?usp=drivesdk">  
+<img src="https://img.shields.io/badge/ADDITIONAL-CERTIFICATE-7C3AED?style=for-the-badge" alt="Additional certificate"/>  
+</a>  </div>  
 ---
 
-## 🎓 Education
+🎓 Education
 
-**B.Tech — Data Science**
+Bachelor of Technology — Data Science
 
 Hyderabad Institute of Technology and Management (HITAM)
 
-**Duration:** 2022–2026
+📅 2022–2026
 
-**CGPA:** 7.35 / 10
+📚 CGPA: 7.35 / 10
+
 
 ---
 
-## 🤝 Activities & Experience
+🤝 Activities & Experience
 
-**Event Volunteer — Kuk Du Koo Fest**
+Event Volunteer — Kuk Du Koo Fest
 
 📍 Gachibowli · February 2025
 
 Participated in event activities and coordination, contributing to a collaborative environment.
 
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=As-01-Asma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=As-01-Asma&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=As-01-Asma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
 
 ---
 
-## 📬 Let's Connect
+📊 GitHub Overview
+
+<div align="center">  <img height="165" src="https://github-readme-stats.vercel.app/api?username=As-01-Asma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics"/>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=As-01-Asma&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used programming languages"/>  <br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=As-01-Asma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>  </div>  
+---
+
+📬 Let's Connect
 
 I'm excited to learn, work with data, and contribute to projects that turn information into actionable business insights.
 
-<p align="center">
-<a href="mailto:asmathshaik012@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-</a>
-<a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/As-01-Asma">
-<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+<div align="center">  <a href="mailto:asmathshaik012@gmail.com">  
+<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>  
+</a>  <a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">  
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>  
+</a>  <a href="https://github.com/As-01-Asma">  
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>  
+</a>  <br/><br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=100&section=footer" width="100%" alt="Portfolio footer"/>
-</p>
+Thank you for visiting my portfolio!
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=100&section=footer" width="100%" alt="Decorative footer"/>  </div>  
+Original code in this I said you to remove that Python logo
