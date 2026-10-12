@@ -1,25 +1,16 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha - Data Analyst"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha - Data Analyst"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Dashboards+and+Business+Insights" alt="Portfolio introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Building+Dashboards+and+Business+Insights" alt="Portfolio introduction"/>
 </p>
-
 <p align="center">
-  <a href="https://github.com/As-01-Asma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:asmathshaik012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://github.com/As-01-Asma">GitHub</a> |
+<a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">LinkedIn</a> |
+<a href="mailto:asmathshaik012@gmail.com">Email</a>
 </p>
-
 <p align="center">📍 Hyderabad, Telangana, India</p>
 
 ---
@@ -42,10 +33,10 @@ I use SQL, Python, Excel, and Power BI to explore datasets, understand customer 
 ### Data Analytics & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Pandas"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Pandas"/>
 </p>
 
 - **Excel:** XLOOKUP, Pivot Tables, Power Query, data cleaning, formulas and reporting
@@ -56,7 +47,7 @@ I use SQL, Python, Excel, and Power BI to explore datasets, understand customer 
 ### Platforms & Tools
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,jupyter,googlecolab,vscode,pycharm,powerpoint&theme=dark" alt="MySQL, PostgreSQL, SQL Server, Jupyter Notebook, Google Colab, VS Code, PyCharm and PowerPoint"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,jupyter,googlecolab,vscode,pycharm,powerpoint&theme=dark" alt="MySQL, PostgreSQL, SQL Server, Jupyter Notebook, Google Colab, VS Code, PyCharm and PowerPoint"/>
 </p>
 
 - **Databases:** MySQL, PostgreSQL and SQL Server
@@ -85,11 +76,7 @@ Analyzed marketing performance, customer engagement, conversion behavior, and cu
 - Created four dashboard areas: Marketing Overview, Conversion Details, Social Media Details, and Customer Review Details.
 - Identified findings to support data-driven marketing decisions.
 
-<p>
-  <a href="https://github.com/As-01-Asma/Marketing_Analytics">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Marketing Analytics project"/>
-  </a>
-</p>
+[View Marketing Analytics Project](https://github.com/As-01-Asma/Marketing_Analytics)
 
 ---
 
@@ -113,11 +100,7 @@ Explored customer shopping records to understand purchasing patterns, spending b
 - Investigated ratings and subscription behavior.
 - Developed recommendations for customer retention, loyalty, and targeted marketing.
 
-<p>
-  <a href="https://github.com/As-01-Asma/customer_behavior_analysis">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Customer Shopping Behavior project"/>
-  </a>
-</p>
+[View Customer Shopping Behavior Project](https://github.com/As-01-Asma/customer_behavior_analysis)
 
 ---
 
@@ -165,15 +148,13 @@ Participated in event activities and coordination, contributing to a collaborati
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=As-01-Asma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=As-01-Asma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=As-01-Asma&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=As-01-Asma&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=As-01-Asma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=As-01-Asma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -183,17 +164,17 @@ Participated in event activities and coordination, contributing to a collaborati
 I'm excited to learn, work with data, and contribute to projects that turn information into actionable business insights.
 
 <p align="center">
-  <a href="mailto:asmathshaik012@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://github.com/As-01-Asma">
-    <img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
-  </a>
+<a href="mailto:asmathshaik012@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+<a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/As-01-Asma">
+<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=100&section=footer" width="100%" alt="Portfolio footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=100&section=footer" width="100%" alt="Portfolio footer"/>
 </p>
