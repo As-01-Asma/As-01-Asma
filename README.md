@@ -63,12 +63,17 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 <a href="https://www.microsoft.com/sql-server">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </a>
+<a href="https://colab.research.google.com/">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</a>
 
 </div>
 
 **Excel:** XLOOKUP, Pivot Tables, Power Query, data cleaning, formulas and reporting
 
 **SQL:** Joins, CTEs, subqueries, aggregations, window functions and data analysis
+
+**Python:** Python basics, Pandas, data analysis, data cleaning, data handling and automation basics
 
 **Power BI:** Interactive dashboards, DAX, data modeling and reporting
 
