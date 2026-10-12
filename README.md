@@ -47,24 +47,27 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 
 ### Data Analytics & Visualization
 
-<!-- First logo line: Existing tool logos -->
+<!-- First row: Existing five tool logos -->
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,pycharm&theme=dark" alt="Python, MySQL, PostgreSQL, VS Code and PyCharm"/>
 
 <br/><br/>
 
-<!-- Additional tools: Google Colab and SQL Server -->
+<!-- Second row: Additional platforms in badge boxes -->
 
+<a href="https://www.microsoft.com/sql-server">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</a>
 <a href="https://colab.research.google.com/">
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
 </a>
-<a href="https://www.microsoft.com/sql-server">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+<a href="https://www.microsoft.com/microsoft-365/powerpoint">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
 </a>
 
 <br/><br/>
 
-<!-- Second logo line: Main skills -->
+<!-- Third row: Main skills -->
 
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
@@ -77,14 +80,6 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 </a>
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python%20(Pandas)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Pandas)"/>
-</a>
-
-<br/><br/>
-
-<!-- PowerPoint -->
-
-<a href="https://www.microsoft.com/microsoft-365/powerpoint">
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
 </a>
 
 </div>
