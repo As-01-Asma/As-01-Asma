@@ -51,33 +51,41 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 
 <br/><br/>
 
-<a href="https://powerbi.microsoft.com/">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
 <a href="https://www.microsoft.com/microsoft-365/excel">
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+</a>
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </a>
 <a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </a>
 <a href="https://www.microsoft.com/sql-server">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 </a>
+
+<br/><br/>
+
 <a href="https://colab.research.google.com/">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+</a>
+<a href="https://www.microsoft.com/microsoft-365/powerpoint">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint"/>
 </a>
 
 </div>
 
 **Excel:** XLOOKUP, Pivot Tables, Power Query, data cleaning, formulas and reporting
 
-**SQL:** Joins, CTEs, subqueries, aggregations, window functions and data analysis
-
-**Python:** Python basics, Pandas, data analysis, data cleaning, data handling and automation basics
-
 **Power BI:** Interactive dashboards, DAX, data modeling and reporting
 
+**Python:** Python basics, Pandas, data analysis, data cleaning and data handling
+
+**SQL:** Joins, CTEs, subqueries, aggregations, window functions and data analysis
+
 **Tools:** MySQL, PostgreSQL, SQL Server, Jupyter Notebook, Google Colab, VS Code and PyCharm
+
+**Presentation:** Microsoft PowerPoint
 
 ---
 
@@ -119,6 +127,7 @@ Customer journey analysis
 </table>
 
 **What I worked on**
+
 - Examined marketing and conversion performance.
 - Investigated pre-purchase drop-offs.
 - Analyzed social media engagement and customer reviews.
@@ -191,6 +200,7 @@ Subscription insights
 </table>
 
 **What I worked on**
+
 - Cleaned and analyzed customer shopping data.
 - Explored purchase categories, customer segments, and shipping preferences.
 - Investigated ratings and subscription behavior.
@@ -229,25 +239,25 @@ Subscription insights
 <div align="center">
 
 <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_gz3JaAohkLsPMWFZZ_1770700002978_completion_certificate.pdf">
-<img src="https://img.shields.io/badge/DELOITTE-View%20Certificate-86BC25?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DELOITTE-View%20Certificate-86BC25?style=for-the-badge" alt="Deloitte certificate"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_gz3JaAohkLsPMWFZZ_1771212862051_completion_certificate.pdf">
-<img src="https://img.shields.io/badge/TATA-View%20Certificate-005A9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TATA-View%20Certificate-005A9C?style=for-the-badge" alt="Tata certificate"/>
 </a>
 
 <br/><br/>
 
 <a href="https://drive.google.com/file/d/1qiMzC44XjlzEV6l1Ub7OsqsHP2SGR_mw/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/MICROSOFT-POWER%20BI%20CERTIFICATE-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MICROSOFT-POWER%20BI%20CERTIFICATE-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" alt="Microsoft Power BI certificate"/>
 </a>
 
 <br/><br/>
 
 <a href="https://drive.google.com/file/d/19RLdeuqhAMpm2jIA0uB2m76-udQfqjJ8/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/ADDITIONAL-CERTIFICATE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADDITIONAL-CERTIFICATE-7C3AED?style=for-the-badge" alt="Additional certificate"/>
 </a>
 
 </div>
@@ -299,15 +309,15 @@ I'm excited to learn, work with data, and contribute to projects that turn infor
 <div align="center">
 
 <a href="mailto:asmathshaik012@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shaik-asmatha-a30ab32a8">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://github.com/As-01-Asma">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
 </a>
 
 <br/><br/>
