@@ -47,19 +47,19 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 
 ### Data Analytics & Visualization
 
-<!-- Database tools, Python-related tools, development tools, then PowerPoint -->
+<!-- Platform and development tool logos -->
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,python,jupyter,googlecolab,vscode,pycharm,powerpoint&theme=dark" alt="MySQL, PostgreSQL, SQL Server, Python, Jupyter Notebook, Google Colab, VS Code, PyCharm and PowerPoint"/>
 
 <br/><br/>
 
-<!-- Main skill badges -->
+<!-- Main technical skills: Excel, SQL, Power BI, Python (Pandas) -->
 
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </a>
 <a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </a>
 <a href="https://powerbi.microsoft.com/">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -91,7 +91,7 @@ I use data analysis, SQL queries, Python, Excel, and Power BI to explore dataset
 ### 📈 Project 01 — Marketing Performance Analytics
 
 <img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-Querying-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
@@ -144,7 +144,7 @@ Customer journey analysis
 ### 🛍️ Project 02 — Customer Shopping Behavior Analysis
 
 <img src="https://img.shields.io/badge/Python-Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
