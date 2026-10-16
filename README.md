@@ -2,20 +2,15 @@
 
 <div align="center">
 
-<!-- LARGE, PROMINENT PORTFOLIO BUTTON -->
+<!-- PROMINENT PORTFOLIO BUTTON -->
 
-<a href="https://radiant-starburst-59dbba.netlify.app" target="_blank">
-  <div style="display: inline-block; background: linear-gradient(90deg, #6D28D9, #C026D3); padding: 18px 34px; border-radius: 12px; margin-bottom: 24px;">
-    <h1 style="color: white; font-size: 30px; margin: 0;">
-      ✨ VISIT MY PORTFOLIO ✨
-    </h1>
-    <p style="color: white; font-size: 16px; margin: 8px 0 0;">
-      CLICK TO EXPLORE MY WORK
-    </p>
-  </div>
+<a href="https://radiant-starburst-59dbba.netlify.app">
+<img src="https://img.shields.io/badge/%E2%9C%A8%20VISIT%20MY%20PORTFOLIO-CLICK%20HERE%20TO%20EXPLORE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9&color=C026D3" alt="Visit My Portfolio"/>
 </a>
 
 <br/><br/>
+
+<!-- PROFILE BANNER -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha Data Analyst portfolio banner"/>
 
