@@ -2,10 +2,17 @@
 
 <div align="center">
 
-<!-- PROMINENT PORTFOLIO BUTTON -->
+<!-- LARGE, PROMINENT PORTFOLIO BUTTON -->
 
-<a href="https://radiant-starburst-59dbba.netlify.app">
-<img src="https://img.shields.io/badge/%E2%9C%A8%20VISIT%20MY%20PORTFOLIO-EXPLORE%20NOW-C026D3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6D28D9" alt="Visit my live Data Analyst portfolio"/>
+<a href="https://radiant-starburst-59dbba.netlify.app" target="_blank">
+  <div style="display: inline-block; background: linear-gradient(90deg, #6D28D9, #C026D3); padding: 18px 34px; border-radius: 12px; margin-bottom: 24px;">
+    <h1 style="color: white; font-size: 30px; margin: 0;">
+      ✨ VISIT MY PORTFOLIO ✨
+    </h1>
+    <p style="color: white; font-size: 16px; margin: 8px 0 0;">
+      CLICK TO EXPLORE MY WORK
+    </p>
+  </div>
 </a>
 
 <br/><br/>
