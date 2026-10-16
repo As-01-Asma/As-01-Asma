@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<a href="https://celadon-tartufo-fc56fc.netlify.app">
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-Explore%20Portfolio-06B6D4?style=for-the-badge" alt="Visit my live portfolio"/>
+</a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F172A,50:123C69,100:06B6D4&text=SHAIK%20ASMATHA&fontColor=FFFFFF&fontSize=45&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20DATA%20SCIENCE&descAlignY=65&descSize=18" width="100%" alt="Shaik Asmatha Data Analyst portfolio banner"/>
 
 <br/>
@@ -135,6 +141,10 @@ Customer journey analysis
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Marketing Analytics repository"/>
 </a>
 
+<a href="https://celadon-tartufo-fc56fc.netlify.app">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-Explore%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
+</a>
+
 </div>
 
 ---
@@ -205,6 +215,10 @@ Subscription insights
 
 <a href="https://github.com/As-01-Asma/customer_behavior_analysis">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Customer Shopping Behavior repository"/>
+</a>
+
+<a href="https://celadon-tartufo-fc56fc.netlify.app">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-Explore%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
 </a>
 
 </div>
